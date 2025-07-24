@@ -1,0 +1,7 @@
+#Organize Import Order
+5=org.apache.hadoop.hbase.shaded
+4=org.apache.hbase.thirdparty
+3=org.apache.phoenix.shaded
+2=org.apache.phoenix.thirdparty
+1=
+0=#
